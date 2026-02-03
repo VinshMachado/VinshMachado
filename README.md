@@ -45,8 +45,11 @@ I enjoy building **clean, scalable web apps** and solving real-world problems us
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinshMachado&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinshMachado&layout=compact&theme=tokyonight)
+
+
+![](https://github-readme-stats.vercel.app/api?username=VinshMachado&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VinshMachado&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinshMachado&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
